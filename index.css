@@ -1,0 +1,36 @@
+* {
+    font-family: 'Agbalumo', serif;
+}
+
+h3 {
+
+    font-size: 25px;
+    color: darkmagenta
+}
+
+
+li {
+    list-style: none;
+    font-style: italic;
+    font-weight: 800 cursor;
+    cursor: progress;
+}
+
+.flex {
+    display: flex;
+    background-color: indigo;
+}
+
+img {
+    max-width: 20vw;
+    max-height: 50vh;
+}
+
+button {
+    text-align: center;
+    display: none;
+}
+
+#more-info .flex {
+    justify-content: space-around;
+}
